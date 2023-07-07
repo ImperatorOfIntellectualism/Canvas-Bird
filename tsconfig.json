@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "removeComments": true,
+        "noImplicitAny": true,
+        "sourceMap": true,
+        "outFile": "script.js"
+    }
+}
